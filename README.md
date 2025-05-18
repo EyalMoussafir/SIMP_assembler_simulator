@@ -4,9 +4,8 @@ An assembler and cycle-accurate simulator for the SIMP (MIPS-like) processor, in
 
 ---
 
-- **assembler.c**        — C implementation of the SIMP assembler
-- **simulator.c**        — C implementation of the SIMP simulator
-- **Makefile**           — Rules to build both `asm` and `sim` executables
+- **asm.c**        — C implementation of the SIMP assembler
+- **sim.c**        — C implementation of the SIMP simulator
 - **README.md**          
 
 ---
