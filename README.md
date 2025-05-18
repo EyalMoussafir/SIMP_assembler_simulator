@@ -5,8 +5,7 @@ An assembler and cycle-accurate simulator for the SIMP (MIPS-like) processor, in
 ---
 
 - **asm.c**        — C implementation of the SIMP assembler
-- **sim.c**        — C implementation of the SIMP simulator
-- **README.md**          
+- **sim.c**        — C implementation of the SIMP simulator     
 
 ---
 
